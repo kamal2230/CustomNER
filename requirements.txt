@@ -76,7 +76,7 @@ typed-ast==1.4.1
 unicode-string-literal==1.1
 urllib3==1.25.9
 virtualenv==20.0.26
-waitress==1.4.4
+waitress==2.1.1
 wasabi==0.7.0
 Werkzeug==1.0.1
 wrapt==1.12.1
